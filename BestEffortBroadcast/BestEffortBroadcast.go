@@ -15,7 +15,7 @@ package BestEffortBroadcast
 import (
 	"fmt"
 
-	"github.com/thiagomedinacc/go/PP2PLink"
+	"github.com/thiagomedinacc/go/PP2PLink"a
 ) //import PP2PLink "../PP2PLink"
 
 type BestEffortBroadcast_Req_Message struct {
